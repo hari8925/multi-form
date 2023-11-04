@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "name": "hariprasad",
+      "email": "hariprasad8925@gmail.com",
+      "password": "12345678",
+      "phonenumber": "9812345677",
+      "address": "123/chennai,omr",
+      "district": "chennai",
+      "stateName": "tamilnadu",
+      "postal": "603103",
+      "date": "2023-11-04",
+      "id": 1
+    }
+  ]
+}
